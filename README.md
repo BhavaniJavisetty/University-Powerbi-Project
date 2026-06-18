@@ -1,2 +1,2 @@
-# University-Powerbi-Project
-University Admission Power Bi DashBoard
+# Powerbi-Projects
+1.University Admission Power Bi DashBoard
