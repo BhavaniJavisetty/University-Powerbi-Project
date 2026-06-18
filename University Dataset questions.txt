@@ -1,0 +1,19 @@
+
+	1) Overview page : Logo, title of the report, summary, definitions, Logics
+	2) Summary Numbers : Totals , Aggregates Slicers
+	3) Page3 : All the detailed analysis, Drill down, Conditional Formatting visuals
+
+1) Total applicatoins
+2) Total Fee vs Fee paid
+3) Conversion rate per agent
+4) Fee Collection % by Course
+5) MOnthly Applications trend
+6) Top 3 Agents by No. of enrollments
+7) Age group distribution (20-25,25-30,30-35)
+8) Enrollments by Intakename 
+9) Time from application date till enrollments
+10) % of students who paid the whole fee
+11) HIghest paid course using conditional formatting
+12) Top 3 courses by enrollments
+13) Business development manager wise conversion
+14) Avg age of enrolled students
